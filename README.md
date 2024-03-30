@@ -28,6 +28,9 @@ encourage you to visit his YouTube channel and check the whole series by yoursel
 - [ ] Allow dragging pieces.
 - [ ] Resolve ambiguating moves (notation).
 
+## IDE Recommended:
+- PyCharm
+
 ## Instructions
 1. Clone this repository.
 2. Select whether you want to play versus computer, against another player locally, or watch the game of engine playing against itself by setting appropriate flags in lines 52 and 53 of `ChessMain.py`.
