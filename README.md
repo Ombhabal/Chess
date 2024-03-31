@@ -46,3 +46,9 @@ encourage you to visit his YouTube channel and check the whole series by yoursel
 2. Keeping track of all the possible moves in a given position, so that after a move is made the engine doesn't have to recalculate all the moves.
 3. Evaluating kings placement on the board (separate in middle game and in the late game).
 4. Book of openings.
+
+## Screenshots
+
+- Player vs AI or AI vs AI
+  ![image](https://github.com/Ombhabal/Chess/assets/143935443/409bc39f-8c45-4d1a-8708-3acaaf9c75f3)
+
