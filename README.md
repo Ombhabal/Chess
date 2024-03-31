@@ -50,5 +50,7 @@ encourage you to visit his YouTube channel and check the whole series by yoursel
 ## Screenshots
 
 - Player vs AI or AI vs AI
+
+  
   ![image](https://github.com/Ombhabal/Chess/assets/143935443/409bc39f-8c45-4d1a-8708-3acaaf9c75f3)
 
